@@ -20,3 +20,7 @@
 
 ### Mr.Smoothy
 - Modder
+
+### Sachin Choudhary
+- Bug finder 
+- Ideas
